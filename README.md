@@ -50,4 +50,20 @@ computador 🖥️ 💻
 <img width="1080" height="373" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2495" src="https://github.com/user-attachments/assets/1bf59f42-4e3c-4f62-8aa2-291a605b0699" />
 <img width="828" height="180" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2873" src="https://github.com/user-attachments/assets/b7cb87e6-ced3-4f81-a100-7975fe91e1a3" />
 
+# colaboradores 
+
+@August2170 ( desenvolvedor do mod)
+
+@Paula Gontijo (para arrumar os servidores)
+
+@Lukizin (ideias de gamemodes)
+
+@Pietro (ex criador do mod)
+
+@Sirluque (criador de quase todos os mapas personalizados)
+
+e pessoal do @submerged 
+
+
+
 

@@ -62,7 +62,7 @@ computador 🖥️ 💻
 
 @Sirluque (criador de quase todos os mapas personalizados)
 
-e pessoal do @submerged 
+e guys do @submerged 
 
 
 

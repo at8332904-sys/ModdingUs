@@ -40,7 +40,7 @@ computador 🖥️ 💻
 
 3. O mod estará lá disponível para você baixar
 
-# mapas modificados ![Uploading 12530.jpg…]()
+# mapas modificados
 <img width="1080" height="385" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2494" src="https://github.com/user-attachments/assets/5bdc3c51-b1ac-4a70-86fa-cdb0752c52ba" />
 <img width="804" height="237" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2499" src="https://github.com/user-attachments/assets/954c5e27-4407-4b9b-b08b-52f48729738d" />
 <img width="1080" height="328" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2500" src="https://github.com/user-attachments/assets/91fcb547-f33b-40b8-bf87-1ad92748fe23" />

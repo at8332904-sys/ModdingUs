@@ -48,5 +48,6 @@ computador 🖥️ 💻
 <img width="1080" height="329" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2497" src="https://github.com/user-attachments/assets/d21b176f-82d7-4f86-a722-f2ce56979252" />
 <img width="1080" height="324" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2496" src="https://github.com/user-attachments/assets/f305fec2-7197-459f-8896-0f4216d5632a" />
 <img width="1080" height="373" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2495" src="https://github.com/user-attachments/assets/1bf59f42-4e3c-4f62-8aa2-291a605b0699" />
+<img width="828" height="180" alt="110ae755-9f13-471c-a198-974170d075e4-1_all_2873" src="https://github.com/user-attachments/assets/b7cb87e6-ced3-4f81-a100-7975fe91e1a3" />
 
 
